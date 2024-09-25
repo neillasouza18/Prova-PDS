@@ -1,3 +1,5 @@
+package FactoryMethod;
+
 public class Lanchonete_cg extends Lanchonete {
     @Override
     public Sanduiche criar_sanduiche() {
